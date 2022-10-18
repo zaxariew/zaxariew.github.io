@@ -1,0 +1,241 @@
+bady{
+    font-family: Arial, sans-serif;
+}
+nav{
+    width: 100%;      
+    height: 60px;
+    background: #344051;
+}
+.logo{
+   color: #fff;
+   font-size: 25px;
+   line-height: 60px;  
+    padding-left: 340px;
+    float: left;
+}
+.menu{
+    float: left;
+    padding-left: 430px;
+}
+.menu li{
+    float: left;
+    line-height: 60px;
+    color: #fff;
+    margin-right: 40px;
+    font-size: 12px;
+    text-transform: uppercase
+}
+.main{
+    width: 100%;
+    height: calc(100% - 60px) ;
+background: url(../img/%D1%82%D0%B5%D0%BD%D1%8C.png) no-repeat 0px 880px,
+    url(../img/%D0%9F%D0%B0%D1%80%D0%B5%D0%BD%D1%8C.png) 90% 100%/auto 85% no-repeat ,
+    url(../img/%D1%84%D0%BE%D0%BD.jpg) center/cover no-repeat ;
+}
+
+.title_conteiner{
+    float: left;
+    margin: 404px 0px 0px 432px;
+    color: #2c384a;
+    text-align: center; 
+}
+.title_conteiner h1{
+    font-size: 60px;
+    font-weight: bold;
+}
+.title_conteiner h4{
+    margin: 40px;
+    font-size: 22px;
+    color: #9398a3;
+}
+.title_conteiner input{
+    height: 40px;
+    text-align: center;
+    border: 2px solid #6d7682;
+    background: none;
+    border-radius: 5px;
+    color: #6a7682;
+    font-size: 13px;
+    padding: 0px 16px;
+    margin: 58px 14px 0px 14px
+}
+.me{
+    background: url(../img/%D0%A7%D0%B5%D1%80%D1%82%D0%B0%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.png) no-repeat 890px 40px ;
+     width: 100%;      
+    height: 500px;
+}
+.me h2{
+   text-align: center;
+     margin: 110px;
+    font-size: 23px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.me img{
+  display: block;
+    margin: 0 auto;
+}
+.xz{
+    margin: 20px 570px;
+}
+.zx{
+    margin: 40px 570px;
+}
+.input{
+     margin: 40px 870px;
+    border: 2px solid #6f707e;
+    padding: 5px ;
+    border-radius: 7px;
+}
+.ikonka{    
+}
+
+.skilss h2{
+   text-align: center;
+    margin: 110px;
+    font-size: 23px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.skilss{
+    
+   width: 920px;
+    margin: 0px auto;
+     
+    width: 950px;
+}
+.skills_item{
+    float: left;
+    text-align: center;
+    width: 230px;
+    padding-left: 0px;
+    height: auto;
+         
+}
+.box h2{
+   text-align: center;
+    margin: 110px;
+    font-size: 23px;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-top: 200px
+}
+.box{
+    background: url(../img/%D0%A7%D0%B5%D1%80%D1%82%D0%B0%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.png) no-repeat 890px 255px ;
+     width: 100%;      
+    height: 500px; 
+    text-align: center;
+    height: auto;
+}
+.calculation_box h2{
+    text-align: center;
+    margin: 110px 0px 20px 0px;
+    font-size: 23px;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-top: 200px
+}
+.calculation{
+  
+}
+.calculation h3{
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-top: 50px
+}
+.calculation{
+    margin-left: 500px;
+    
+}
+
+select{
+ margin-top: 40px;
+      width: 65%;  
+    height: 55px;
+    background: url(../img/1.jpg)no-repeat center
+}
+.srok{
+    margin: 60px 0px 0px 500px;
+}
+.suma{
+     margin: 15px 0px 0px 500px;
+}
+
+.stats h2{
+    text-align: center;
+    margin: 0px 0px 20px 0px;
+    font-size: 23px;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-top: 200px
+}
+[zxc]{
+   float: left;
+    text-align: center;
+    width: 230px;
+    padding-left: 0px;
+    height: auto;
+}
+.stats_xz{
+    margin: 125px 0px 0px 435px;
+}
+[as]{
+    padding-bottom: 30px;
+}
+
+.stats_xz h3{
+    margin-bottom: 25px;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+.reviews{
+    text-align: center;
+    padding: 300px;
+      background: url(../img/%D0%A7%D0%B5%D1%80%D1%82%D0%B0%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.png) no-repeat 890px 365px ;
+     width: 100%;      
+    text-align: center;
+    height: auto;
+    padding: 0px 700px
+}
+
+.reviews h2{
+     text-align: center;
+    margin: 0px 0px 20px 0px;
+    font-size: 23px;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-bottom: 100px;
+}
+[qw]{
+    padding-bottom: 35px;
+}
+.mixa{
+    padding-top: 30px;
+}
+.asd{
+    font-weight: 800
+}
+.contacts h2{
+     text-align: center;
+    margin: 110px 0px 20px 0px;
+    font-size: 23px;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-top: 200px;
+         background: url(../img/%D0%A7%D0%B5%D1%80%D1%82%D0%B0%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.png) no-repeat 890px 220px ;
+}
+.qwe{
+    text-align: center;
+    margin-top: 50px;
+}
+.contakt{
+    padding: 40px 0px 0px 650px;
+}
+.kontakt{
+    float: left;
+    padding-right: 100px;
+    text-align: center;
+    margin-bottom: auto;
+}
